@@ -1,6 +1,6 @@
 # USACO Training Pages
 
-My solutions to every [USACO Training Page](https://train.usaco.org) problem as of 2023. I may use more modern APIs and libraries compared to other solution repositories.
+My solutions to every [USACO Training Page](https://train.usaco.org) problem as of 2023. Also includes the instructional texts. I may use more modern APIs and libraries compared to other solution repositories.
 
 You can copy the template files I use by language, listed alongside this README. Don't forget to change your username and replace all instances of `problemname` with the appropriate one.
 

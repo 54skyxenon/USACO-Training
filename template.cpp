@@ -12,7 +12,6 @@ void setIO(string s, int argc, char** argv) {
     cin.tie(0);
 
     if (argc > 1 && !strcmp(argv[1], "--use-console")) {
-        cout << "Using console..." << endl;
         return;
     }
 
